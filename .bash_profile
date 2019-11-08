@@ -1,0 +1,1 @@
+/Users/kinninko/.bash_profile
